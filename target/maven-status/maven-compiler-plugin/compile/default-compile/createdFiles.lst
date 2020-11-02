@@ -1,0 +1,4 @@
+com\example\demo\config\SwaggerConfig.class
+com\example\demo\SwaggerDemoAppApplication.class
+com\example\demo\resources\WelcomeRestController.class
+com\example\demo\ServletInitializer.class
